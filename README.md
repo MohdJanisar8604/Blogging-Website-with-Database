@@ -26,7 +26,7 @@ $ ejs install fvcproductions
 $ npm install
 $ bower install
 ```
-
+connect with mongodb databse .
 
 
 ## Contributing
