@@ -20,7 +20,7 @@ $ ejs update
 $ ejs install fvcproductions
 ```
 
-> now install npm and bower packages
+> now install npm and bower packages(node modules) install depedencies:
 
 ```shell
 $ npm install
@@ -28,13 +28,6 @@ $ bower install
 ```
 
 
-
----
-
-
-
-
----
 
 ## Contributing
 
